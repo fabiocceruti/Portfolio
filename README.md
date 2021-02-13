@@ -9,7 +9,7 @@
 
 Experiência em análise de dados com foco desde do tratamento dos dados até a apresentação dos insights. Durante os últimos anos venho prestantando serviço para Petrobras na análise de desempenho dos recursos aplicados na interligação submarina.
 
-Possuo capacidade analítica e facilidade de trabalhar em equipe. Busco sempre oportunidades para automatizar tarefas e processos. 
+Possuo capacidade analítica, facilidade de trabalhar em equipe e sob pressão. Busco sempre oportunidades para automatizar tarefas e processos. Estou sempre me atualizando em relação as melhores práticas e ferramentas na área de dados. 
 
 **Background in:** Python, Machine Learning, Power BI, Excel e Análise de Dados.
 
