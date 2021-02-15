@@ -22,7 +22,7 @@ Possuo capacidade analítica, facilidade de trabalhar em equipe e sob pressão. 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise dos dados do Airbnb da Cidade de Lisboa:** https://bit.ly/2LRpEJc
 
 
 ---
