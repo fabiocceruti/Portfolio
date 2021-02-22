@@ -22,7 +22,8 @@ Possuo capacidade analítica, facilidade de trabalhar em equipe e sob pressão. 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Análise dos dados do Airbnb da Cidade de Lisboa:** https://bit.ly/2LRpEJc
+* **Análise dos dados do Airbnb da cidade de Lisboa:** https://bit.ly/2LRpEJc
+* **Análise dos dados de violência do Estado do Rio de Janeiro:** https://bit.ly/3sdsTu6
 
 
 ---
