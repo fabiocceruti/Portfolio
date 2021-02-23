@@ -8,7 +8,7 @@
 # Fabio Ceruti
 <sub>*Engenheiro* na Sandech</sub>
 
-Experiência em análise de dados com foco desde do tratamento dos dados até a apresentação dos insights. Durante os últimos anos venho prestantando serviço para Petrobras na análise de desempenho dos recursos aplicados na interligação submarina.
+Experiência em análise de dados com foco desde do tratamento dos dados até a apresentação dos insights. Durante os últimos anos venho prestando serviço para Petrobras na análise de desempenho dos recursos aplicados na interligação submarina.
 
 Possuo capacidade analítica, facilidade de trabalhar em equipe e sob pressão. Busco sempre oportunidades para automatizar tarefas e processos. Estou sempre me atualizando em relação as melhores práticas e ferramentas na área de dados. 
 
