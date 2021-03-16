@@ -24,6 +24,7 @@ Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise dos dados do Airbnb da cidade de Lisboa:** https://bit.ly/2LRpEJc
 * **Análise dos dados de violência do Estado do Rio de Janeiro:** https://bit.ly/3sdsTu6
+* **Análise dos dados de COVID-19: perspectiva mundial e brasileira:** https://bit.ly/3qOlwYP
 
 
 ---
