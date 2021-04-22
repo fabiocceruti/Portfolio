@@ -25,7 +25,8 @@ Veja os tutoriais publicados do Sigmoidal:
 * **Análise dos dados do Airbnb da cidade de Lisboa:** https://bit.ly/2LRpEJc
 * **Análise dos dados de violência do Estado do Rio de Janeiro:** https://bit.ly/3sdsTu6
 * **Análise dos dados de COVID-19: perspectiva mundial e brasileira:** https://bit.ly/3qOlwYP
-* **Identificação de Fraude de Cartão de Crédito:** https://bit.ly/3g3Blt4
+* **Identificação de fraude de cartão de crédito:** https://bit.ly/3g3Blt4
+* **Churn prediction de uma empresa de telecomunicações:** https://bit.ly/3dEKV4b
 
 
 ---
