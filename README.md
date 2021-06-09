@@ -6,21 +6,16 @@
 </p>
 
 # Fabio Ceruti
-<sub>*Engenheiro* na Sandech</sub>
-
-Experiência em análise de dados com foco desde do tratamento dos dados até a apresentação dos insights. Durante os últimos anos venho prestando serviço para Petrobras na análise de desempenho dos recursos aplicados na interligação submarina.
-
-Possuo capacidade analítica, facilidade de trabalhar em equipe e sob pressão. Busco sempre oportunidades para automatizar tarefas e processos. Estou sempre me atualizando em relação as melhores práticas e ferramentas na área de dados. 
-
-**Background in:** Python, Machine Learning, Power BI, Excel e Análise de Dados.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fabio-corr%C3%AAa-ceruti-32ab704b/)
+* [Site](https://fabioceruti.tech/)
 * [Medium](https://fabiocceruti.medium.com/)
+* [Instagram](https://www.instagram.com/fabio_cceruti/)
 
+Convido a você para se conectar comigo se inscrevendo em meu [site](https://fabioceruti.tech/) e nas demais redes para acompanhar as minhas publicações sobre a área de dados.
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+## Projetos de Data Science:
 
 * **Análise dos dados do Airbnb da cidade de Lisboa:** https://bit.ly/2LRpEJc
 * **Análise dos dados de violência do Estado do Rio de Janeiro:** https://bit.ly/3sdsTu6
