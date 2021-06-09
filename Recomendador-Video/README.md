@@ -14,7 +14,7 @@ O **Recomendador de Vídeo** foi desenvolvido no curso passando por todas etapas
 Acesse a aplicação disponível no Heroku: [Recomendador de Vídeo - Fabio Ceruti](http://recomendador-video-fabioceruti.herokuapp.com/)
 
 <p align="center" style="margin-bottom: -10px">
-    <img src="https://gifs.com/gif/gif-desmonstracao-Og766Y" alt="Gif Demonstrativo">
+    <img src="gif/gif.gif" alt="Gif Demonstrativo">
     <p align="center" style="font-size: 12px">Gif Demonstrativo</p>
 </p>
 
