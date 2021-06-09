@@ -62,7 +62,7 @@ A coleta de dados foi realizada, utilizando uma biblioteca chamada [youtube_dl](
 
 Os dados foram obtidos com base em três buscas de interesse (query):
 - Machine learning;
-- Data Scince;
+- Data Science;
 - Kaggle.
 
 Vale destacar que foram coletados 2000 vídeos mais recentes para cada busca de interesse.
@@ -70,7 +70,7 @@ Vale destacar que foram coletados 2000 vídeos mais recentes para cada busca de 
 ```
 extract_info = ydl.extract_info("ytsearchdate2000:{query}".format(query = query), download = False)
 ```
-Após a coleta, foi realizada uma etapa de *labeling* manual em que avaliei cada título de vídeo coletado para classificá-lo em 0 (*dislike*) ou 1 (*like*). Além disso, foi necessário realizar tratamento de dado para excluir vídeos duplicados e dados com valores ausentes.
+Após a coleta, foi realizada uma etapa de *labeling* manual em que avaliei cada título de vídeo coletado para classificá-lo em 0 (*dislike*) ou 1 (*like*). Além disso, foi necessário realizar tratamento de dados para excluir vídeos duplicados e dados com valores ausentes.
 
 Na fase de feature engineering, foram criadas as seguintes variáveis:
 - Visualizações por dia; e 
@@ -110,7 +110,7 @@ Esta listagem foi renderizada em uma página HTML.
 [<img align="left" alt="fabio_cceruti | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png" />](https://www.instagram.com/fabio_cceruti/)
 <br/>
 
-Convido a você para se conectar comigo se inscrevendo em meu [site](https://fabioceruti.tech/) e nas demais redes para acompanhar as minhas publicações sobre a área de dados. 
+Convido você para se conectar comigo se inscrevendo em meu [site](https://fabioceruti.tech/) e nas demais redes para acompanhar as minhas publicações sobre a área de dados. 
 
 <img align="left" alt="ceruti.tech | gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/147_Gmail_logo_logos-512.png" />*ceruti.tech@gmail.com*
 
