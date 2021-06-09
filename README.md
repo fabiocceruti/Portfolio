@@ -22,6 +22,7 @@ Convido a você para se conectar comigo se inscrevendo em meu [site](https://fab
 * **Análise dos dados de COVID-19: perspectiva mundial e brasileira:** https://bit.ly/3qOlwYP
 * **Identificação de fraude de cartão de crédito:** https://bit.ly/3g3Blt4
 * **Churn prediction de uma empresa de telecomunicações:** https://bit.ly/3dEKV4b
+* **Recomendador de vídeo do Youtube (Deploy - Heroku):** https://bit.ly/354O7AS
 
 
 ---
