@@ -13,9 +13,39 @@ O **Recomendador de Vídeo** foi desenvolvido no curso passando por todas etapas
 
 Acesse a aplicação disponível no Heroku: [Recomendador de Vídeo - Fabio Ceruti](http://recomendador-video-fabioceruti.herokuapp.com/)
 
+<p align="center" style="margin-bottom: -10px">
+    <img src="https://gifs.com/gif/gif-desmonstracao-Og766Y" alt="Gif Demonstrativo">
+    <p align="center" style="font-size: 12px">Gif Demonstrativo</p>
+</p>
+
+## Ferramentas utilizadas
+
+Foram utilizadas as seguintes ferramentas na criação e execução do projeto:
+
+- Linguagem de programação: Python
+- IDE de desenvolvimento: Jupyter Lab e Visual Studio Code
+- Pacotes e Frameworks: 
+    - Flask==2.0.1
+    - gunicorn==20.1.0
+    - joblib==1.0.1
+    - lightgbm==3.2.1
+    - numpy==1.20.3
+    - pandas==1.2.4
+    - requests==2.25.1
+    - scikit-learn==0.23.2
+    - scipy==1.6.3
+    - youtube-dl==2021.6.6
+- Linguagens e Frameworks usados no front-end:
+    - HTML e CSS
+    - Bootstrap
+- Ferramenta de conteinerização: Docker
+- Plataforma de hospedagem em nuvem: Heroku
+- Ferramentas auxiliares:
+    - Anaconda e Microsoft Excel
+
 ## Estrutura do Projeto
 
-### Definição do Problema
+### 1.Definição do Problema
 
 Antes de iniciar qualquer projeto de Data Science, devemos ter de forma clara qual problema queremos resolver. Para isto, foi preciso realizar as seguintes perguntas:
 - **Qual o problema?** R: Gasto tempo demais buscando novos vídeos no youtube a respeito de *Data Science*.
@@ -26,7 +56,7 @@ Antes de iniciar qualquer projeto de Data Science, devemos ter de forma clara qu
   - Métrica primária: Dos top N vídeos, quantos coloco na lista de *watch later*.
   - Métrica secundária: Quanto tempo passo selecionando vídeos.
 
-### Preparação dos Dados e Análise dos dados
+### 2.Preparação dos Dados e Análise dos dados
 
 A coleta de dados foi realizada, utilizando uma biblioteca chamada [youtube_dl](https://youtube-dl.org/). O projeto inicial consistia em realizar um scrapy da página do youtube, porém, existia o risco da mudança da estrutura da página e futuramente o projeto "quebrar". Portanto, com o objetivo de conservar o processo de coleta de dados, foi decidido utilizar esta biblioteca.
 
@@ -48,7 +78,7 @@ Na fase de feature engineering, foram criadas as seguintes variáveis:
 
 Por fim, foram utilizadas as variáveis mencionadas acima e a variável visualizações para a modelagem. É importante ressaltar que a ideia deste projeto é construir um modelo simples e que seja eficiente.
 
-### Modelagem
+### 3.Modelagem
 
 Nesta fase, utilizamos os seguintes modelos de *machine learning*:
 - Regressão logística;
@@ -65,6 +95,23 @@ Verificamos que o modelo que consegue o melhor valor para métrica **average_pre
 Ensemble final = 0.3 * Probabilidade_Regressão_Logistica + 0.7 * Probabilidade_LighGBM
 ```
 
-### Entrega do Projeto Final (Deploy)
+### 4.Entrega do Projeto Final (Deploy)
+
+O *deploy* do processo de *Data Science* foi realizado através do **Flask** e hospedado no [Heroku](http://recomendador-video-fabioceruti.herokuapp.com/). Todo o processo realizado desde a fase de coletagem até a predição foi feita em python e colocada em produção. É importante ressaltar que criamos uma classe em python para programar todas as funções/etapas necessárias para realizar a predição. Além disso, conforme mencionado anteriormente, foi construída uma listagem do 30 vídeos mais relevantes com base no meu gosto. 
+Esta listagem foi renderizada em uma página HTML.
+
+-------------------------------------------------------
+
+### 📡 Onde me encontrar?
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/fabio-ceruti/)
+[<img align="left"  width="22px" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png" />](https://fabioceruti.tech/)
+[<img align="left" alt="fabiocceruti | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://fabiocceruti.medium.com/)
+[<img align="left" alt="fabio_cceruti | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png" />](https://www.instagram.com/fabio_cceruti/)
+<br/>
+
+Convido a você para se conectar comigo se inscrevendo em meu [site](https://fabioceruti.tech/) e nas demais redes para acompanhar as minhas publicações sobre a área de dados. 
+
+<img align="left" alt="ceruti.tech | gmail" width="22px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/147_Gmail_logo_logos-512.png" />*ceruti.tech@gmail.com*
 
 
