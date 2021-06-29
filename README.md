@@ -23,6 +23,7 @@ Convido a você para se conectar comigo se inscrevendo em meu [site](https://fab
 * **Identificação de fraude de cartão de crédito:** https://bit.ly/3g3Blt4
 * **Churn prediction de uma empresa de telecomunicações:** https://bit.ly/3dEKV4b
 * **Recomendador de vídeo do Youtube (Deploy - Heroku):** https://bit.ly/354O7AS
+* **Avaliação de risco de crédito com machine learning:** https://bit.ly/3qzfX27
 
 
 ---
